@@ -1,0 +1,6 @@
+{
+  "name": "AURIA Acoustics",
+  "description": "Artisanal luxury high-fidelity wireless audio architecture. Hear more. Feel everything.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
